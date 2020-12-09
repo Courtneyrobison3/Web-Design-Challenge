@@ -1,0 +1,24 @@
+ /* Here we define some styles that will ONLY be applied at screen sizes below 600 pixels */
+        /* Read max-width as: when the screen is less than 600px wide... */
+       
+       
+ @media (max-width: 600px) {
+.navbar {
+    background-color: purple !important;
+  } 
+
+.navbar-collapse {
+  background-color: purple;
+  } }
+
+  .px-2 {
+    padding-left: ($spacer * .5) !important;
+  }
+
+  h1 {
+    color:#20B2AA ;
+  }
+  body {
+      font-family:"Times New Roman", Times, serif;
+      background-color: #DCDCDC
+  }
