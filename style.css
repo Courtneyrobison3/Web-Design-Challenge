@@ -16,9 +16,23 @@
   }
 
   h1 {
-    color:#20B2AA ;
+      padding-right: 25px;
+        color:#20B2AA ;
   }
   body {
       font-family:"Times New Roman", Times, serif;
       background-color: #DCDCDC
+  }
+  h2 {
+    color:#20B2AA ;
+    font-weight: bold;
+  }
+  .content{
+      padding-top: 25px;
+      padding-bottom: 25px;
+      padding-right: 25px;
+      margin-top:50px;
+      margin-bottom: 50px;
+      margin-left: 100px;
+      margin-right: 100px;
   }
